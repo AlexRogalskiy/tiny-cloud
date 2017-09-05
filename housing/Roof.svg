@@ -15,7 +15,7 @@
    id="svg6551"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Dach.svg">
+   sodipodi:docname="Roof.svg">
   <defs
      id="defs6553" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="890.03872"
+     inkscape:cx="723.2171"
      inkscape:cy="611.74694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -78,5 +78,17 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-195.90495"
+       y="1394.7787"
+       id="text4159"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4161"
+         x="-195.90495"
+         y="1394.7787">Use 3mm Acrylic</tspan></text>
   </g>
 </svg>

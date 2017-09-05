@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400mm"
+   height="300mm"
+   viewBox="0 0 1417.3228 1062.9921"
+   id="svg5929"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Walls.svg">
+  <defs
+     id="defs5931" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="642.75042"
+     inkscape:cy="118.25786"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="400mm"
+     inkscape:window-width="1200"
+     inkscape:window-height="1816"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5934">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,10.629918)">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1023.2041,423.57161 632.55415,9.5163187 l -632.37721103,0 0,829.1338113 632.37721103,0 z m -63.70542,0.51368 c 3.9e-4,3.81651 -3.09359,6.91051 -6.9101,6.91015 -3.81577,-6.9e-4 -6.90859,-3.09438 -6.9082,-6.91015 -3.9e-4,-3.81577 3.09243,-6.90947 6.9082,-6.91016 3.81652,-3.6e-4 6.91049,3.09364 6.9101,6.91016 z m -329.05331,-177.16602 0,354.33203 -10.6289,0 0,-354.33203 z m -14.45888,556.29836 c -6.9e-4,3.8158 -3.09439,6.9086 -6.91016,6.9082 -3.81501,-7e-4 -6.90751,-3.0932 -6.9082,-6.9082 -4.2e-4,-3.8158 3.09241,-6.9095 6.9082,-6.9102 3.81655,-4e-4 6.91058,3.0936 6.91016,6.9102 z M 615.6232,44.952389 c 3.9e-4,3.81654 -3.09362,6.91055 -6.91015,6.91016 -3.81654,3.9e-4 -6.91055,-3.09362 -6.91016,-6.91016 6.9e-4,-3.81577 3.09439,-6.90859 6.91016,-6.9082 3.81577,-3.9e-4 6.90946,3.09243 6.91015,6.9082 z m -317.98597,201.966881 0,354.33203 -17.71654,0 0,-354.33203 z M 131.09977,105.18684 c -2e-5,19.47126 -15.7846,35.25585 -35.255856,35.25587 -19.47126,-2e-5 -35.25584,-15.78461 -35.25586,-35.25587 2e-5,-19.471261 15.7846,-35.255841 35.25586,-35.255861 19.471256,2e-5 35.255836,15.7846 35.255856,35.255861 z m 0,637.79494 c 0,19.4713 -15.78458,35.25585 -35.255856,35.25585 -19.47128,0 -35.25586,-15.78455 -35.25586,-35.25585 0,-19.4713 15.78458,-35.2559 35.25586,-35.2559 19.471276,0 35.255856,15.7846 35.255856,35.2559 z m -70.863611,-496.06251 0,354.33203 -17.362955,0 0,-354.33203 z M 42.519694,803.21763 c -6.9e-4,3.8158 -3.094387,6.9086 -6.91016,6.9082 -3.815008,-7e-4 -6.907511,-3.0932 -6.9082,-6.9082 -4.15e-4,-3.8158 3.092411,-6.9095 6.9082,-6.9102 3.816554,-4e-4 6.910575,3.0936 6.91016,6.9102 z M 38.976724,41.409419 c 3.93e-4,3.81654 -3.093621,6.91055 -6.91016,6.91016 -3.816535,3.9e-4 -6.910543,-3.09362 -6.91015,-6.91016 -3.87e-4,-3.81653 3.093619,-6.91053 6.91015,-6.91015 3.816535,-3.9e-4 6.910547,3.09362 6.91016,6.91015 z"
+       id="rect3336-1-3"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccssssssssssccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1200"
+       y="1020.9336"
+       id="text4159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4161"
+         x="1200"
+         y="1020.9336">Use 5mm Acrylic</tspan></text>
+  </g>
+</svg>

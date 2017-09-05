@@ -18,8 +18,9 @@ operated.
 We decided to build a two-storey building with a ground floor for the network
 infrastructure, and a first floor for the cloud nodes - plus a compartment for
 power supply. To make the technology quite visible, we wanted the housing to
-be transparent; acrylic seemed a good idea. We went for 3mm material and the
-design works well with this; if you'd like to go for a different thickness,
+be transparent; acrylic seemed a good idea. Originally, we went for 3mm material and the design worked well with this; in the current version, we used 5mm
+material for the walls, base and layer 1 boards, to make the housing more
+robust. If you'd like to go for a different thickness,
 you'll need to tweak the design (e.g. grooves and tongues) accordingly.
 
 We designed the necessary parts in _Inkscape_ and saved the design as _Scalable
@@ -27,19 +28,26 @@ Vector Graphics (SVG)_ files. Also, since we had access to a _ZING_ laser cutter
 with 30 by 40 cm table size, we prepared 30x40cm sheets for producing the parts.
 As _ZING_ laser cutters are basically operated by a special printer driver, the
 sheets were exported to PDF, ready to cut.
+If you have a different laser device, it may be more material-effective to
+re-arrange the parts for your material size.
 
 ## Making
 If you have [FabLab][cfbb992a] near you that provides a laser cutter, this is
 probably the easiest way to get the housing done. However, any other laser cutter
 may do as well, or maybe you'd like to try to 3D-print it or use a CNC machine...
 
-If you cut it from 3mm acrylic, the line width of the design is critical. The
+If you cut it from 3mm/5mm acrylic, the line width of the design is critical. The
 lines need to be _very_ slim (like 0,1 mm or so) in order for the printer driver
 to detect them as cut lines. If you make the lines wider, the cutter may ignore
 them; if you make them thinner, a PDF export from Inkscape may loose them!
 (This is thanks to aggressive optimization in the lib cairo used by Inkscape
 to create PDF. Very thin lines are considered to be invisble and therefore
 obsolete. Don't ask.)
+
+Note that the lines you need to cut are **red**. We've put the right material
+strength into the designs in **blue**. Make sure you don't cut them, too. ZING
+laser printer drivers allow you to define which colors to use for cutting,
+engraving, and which ones to ignore.
 
 ## Assembling
 The design is pretty much plug and play. You'll need six lengths of 3mm threaded
@@ -48,7 +56,10 @@ can also use superglue to fix the edges permanently. You'll need a handfull of
 small 2,5mm screws to attach the PI/UP boards to the riser cards. And that's
 pretty much all.
 
+We've assembled and disassembled the housing several times when bringing
+the tiny cloud to conferences, and that worked well for us.
+
 **Have Fun!**
 
   [cfbb992a]: https://en.wikipedia.org/wiki/Fab_lab "FabLab"
-  [19538a41]: https://github.com/sealsystems/pi-cloud "Tiny Cloud Git Repo"
+  [19538a41]: https://github.com/sealsystems/tiny-cloud "Tiny Cloud Git Repo"
