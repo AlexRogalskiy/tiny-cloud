@@ -5,13 +5,13 @@ In [part 4](./SWITCHES.md) we used velcro tape to fix the switches. Now it's tim
 ## Power cables
 
 First remove all Ankers and switches again.
-![](images/cabling01-2.jpg)
+![](images/cabling01.jpg)
 
 Insert the two power cables for the Ankers and then the four power cables for the UP boards through the left whole in the back.
 ![](images/cabling02.jpg)
 
 Arrange the cables to fit to their desired places.
-![](images/cabling03-2.jpg)
+![](images/cabling03.jpg)
 
 Now use cable ties to fix the cabling. Use an eight port plug strip with a power switch so you can turn on the cloud with just one switch. I also needed only one US adapter to power that at DockerCon 2017 in Austin.
 ![](images/cabling04.jpg)
@@ -29,7 +29,7 @@ Insert the switch with the network cables and arrange the network cables like th
 ## USB cables for first row
 
 Now pick five colored USB cables for the first row of Raspberry Pis. Also add a USB cable for the first switch. Tie the cables together.
-![](images/usbcabling01.jpg)
+![](images/usbcabling01-2.jpg)
 
 Insert it into the housing and place the cables.
 ![](images/usbcabling02.jpg)
@@ -37,7 +37,7 @@ Insert it into the housing and place the cables.
 ## USB cables for second row
 
 Now pick another five colored USB cables for the second row of Raspberry Pis. Also add a USB cable for the second switch. Tie the cables together.
-![](images/usbcabling03.jpg)
+![](images/usbcabling03-2.jpg)
 ![](images/usbcabling04.jpg)
 
 Now it looks a little messy, but these tied cables help a lot reassembling all parts.
