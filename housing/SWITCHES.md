@@ -1,4 +1,4 @@
-# Part 4 - Assembling the switches
+# Part 4 - Attach the switches
 
 In [part 3](./ANKER.md) you have used velcro tape to assemble the Anker power supplies into the housing. Now we will do the same for the three switches
 
