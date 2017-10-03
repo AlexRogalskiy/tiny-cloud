@@ -58,7 +58,7 @@ pretty much all.
 We've assembled and disassembled the housing several times when bringing
 the tiny cloud to conferences, and that worked well for us.
 
-### Hands-on
+### Part 1 - Assemble the Housing
 
 To put the housing together start with the ground plate and the both sides. Use two threaded rods and screw the three parts together.
 ![](images/assembling01.jpg)
