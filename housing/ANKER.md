@@ -17,4 +17,4 @@ Remove the Anker once again and fix completely fix the tape at the plates.
 Use the same positions of the velcro tape for the second Anker.
 ![](images/anker07.jpg)
 
-In [part 4](./SWITCHES.md) you will assemble the switches into the housing in the same way.
+In [part 4](./SWITCHES.md) you will attach the switches into the housing in the same way.
