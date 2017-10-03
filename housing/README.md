@@ -1,7 +1,6 @@
 # Tiny Cloud Housing
-This is part of the **Tiny Cloud** project located at [GitHub][19538a41].
 
-##Outline
+## Outline
 For our tiny cloud to be mobile (and also look more neat), it needs what all
 professional cloud data centers have: a housing. In our case: a _tiny_ housing.
 The general idea is to not just stack PIs together using spacer tiles, but to
@@ -32,7 +31,7 @@ If you have a different laser device, it may be more material-effective to
 re-arrange the parts for your material size.
 
 ## Making
-If you have [FabLab][cfbb992a] near you that provides a laser cutter, this is
+If you have [FabLab][https://en.wikipedia.org/wiki/Fab_lab] near you that provides a laser cutter, this is
 probably the easiest way to get the housing done. However, any other laser cutter
 may do as well, or maybe you'd like to try to 3D-print it or use a CNC machine...
 
@@ -60,6 +59,3 @@ We've assembled and disassembled the housing several times when bringing
 the tiny cloud to conferences, and that worked well for us.
 
 **Have Fun!**
-
-  [cfbb992a]: https://en.wikipedia.org/wiki/Fab_lab "FabLab"
-  [19538a41]: https://github.com/sealsystems/tiny-cloud "Tiny Cloud Git Repo"
