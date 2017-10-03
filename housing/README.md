@@ -72,6 +72,6 @@ Add the top plate, also check the correct orientation and use the remaining thre
 Now you have build the housing.
 ![](images/assembling05.jpg)
 
-Now go ahead and [assemble the riser cards](./RISERCARDS.md).
+Now go ahead to [part 2](./RISERCARDS.md) and assemble the riser cards.
 
 **Have Fun!**
