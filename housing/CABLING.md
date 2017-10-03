@@ -44,3 +44,12 @@ Now it looks a little messy, but these tied cables help a lot reassembling all p
 ![](images/usbcabling05.jpg)
 ![](images/usbcabling06.jpg)
 
+## Edge router
+
+Now plug in the power cable for the Edge router and the black patch cable from the first switch.
+![](images/edgecabling01.jpg)
+
+Now insert the Edge router into the housing.
+![](images/edgecabling02.jpg)
+
+
