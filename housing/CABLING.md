@@ -5,13 +5,13 @@ In [part 4](./SWITCHES.md) we used velcro tape to fix the switches. Now it's tim
 ## Power cables
 
 First remove all Ankers and switches again.
-![](images/cabling01.jpg)
+![](images/cabling01-2.jpg)
 
 Insert the two power cables for the Ankers and then the four power cables for the UP boards through the left whole in the back.
 ![](images/cabling02.jpg)
 
 Arrange the cables to fit to their desired places.
-![](images/cabling03.jpg)
+![](images/cabling03-2.jpg)
 
 Now use cable ties to fix the cabling. Use an eight port plug strip with a power switch so you can turn on the cloud with just one switch. I also needed only one US adapter to power that at DockerCon 2017 in Austin.
 ![](images/cabling04.jpg)
