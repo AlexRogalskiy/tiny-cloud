@@ -28,10 +28,10 @@ You can build and assemble the tiny cloud yourself. There are assembly instructi
 
   - [Part 1 - Assemble the Housing](housing/README.md#assembling)
   - [Part 2 - Assemble the riser cards](housing/RISERCARDS.md)
-  - [Part 3 - Assemble Anker USB Power supplies](housing/ANKER.md)
-  - [Part 4 - Assemble the switches](housing/SWITCHES.md)
+  - [Part 3 - Attach Anker USB Power supplies](housing/ANKER.md)
+  - [Part 4 - Attach the switches](housing/SWITCHES.md)
   - [Part 5 - Cabling](housing/CABLING.md)
   - [Part 6 - Final assembling](housing/FINAL-ASSEMBLING.md)
-  
+  - [Run a swarm demo](dockercon/README.md)
   
   
