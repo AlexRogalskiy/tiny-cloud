@@ -31,4 +31,4 @@ Now you should have assembled your ten Raspberry Pis and four UP Boards.
 ![](images/risercard07.jpg)
 ![](images/risercard08.jpg)
 
-In [part 3](./ANKER.md) you will assemble the two Anker USB Power supplies.
+In [part 3](./ANKER.md) you will attach the two Anker USB Power supplies.
