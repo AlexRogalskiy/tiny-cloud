@@ -52,13 +52,6 @@ Now plug in the power cable for the Edge router and the black patch cable from t
 Now insert the Edge router into the housing.
 ![](images/edgecabling02.jpg)
 
-## Anker
-
-Now attach the power cables for the Anker, then insert it into the housing. Then attach the USB cables.
-
-![](images/usbcabling08.jpg)
-![](images/usbcabling09.jpg)
-
 ## Patch cables for second switch
 
 Plug the power cable into the second switch and fix the switch in the housing.
@@ -70,4 +63,11 @@ Connect the second switch to the edge router with another black patch cable.
 
 Plug the colored patch cables into the second switch.
 ![](images/cabling2-04.jpg)
+
+## Anker
+
+Now attach the power cables for the Anker, then insert it into the housing. Then attach the USB cables.
+
+![](images/usbcabling08.jpg)
+![](images/usbcabling09.jpg)
 
