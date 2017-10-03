@@ -29,7 +29,7 @@ Insert the switch with the network cables and arrange the network cables like th
 ## USB cables for first row
 
 Now pick five colored USB cables for the first row of Raspberry Pis. Also add a USB cable for the first switch. Tie the cables together.
-![](images/usbcabling01-2.jpg)
+![](images/usbcabling01.jpg)
 
 Insert it into the housing and place the cables.
 ![](images/usbcabling02.jpg)
@@ -37,7 +37,7 @@ Insert it into the housing and place the cables.
 ## USB cables for second row
 
 Now pick another five colored USB cables for the second row of Raspberry Pis. Also add a USB cable for the second switch. Tie the cables together.
-![](images/usbcabling03-2.jpg)
+![](images/usbcabling03.jpg)
 ![](images/usbcabling04.jpg)
 
 Now it looks a little messy, but these tied cables help a lot reassembling all parts.
