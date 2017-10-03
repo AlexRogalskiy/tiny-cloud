@@ -71,3 +71,4 @@ Now attach the power cables for the Anker, then insert it into the housing. Then
 ![](images/usbcabling08.jpg)
 ![](images/usbcabling09.jpg)
 
+Wow, this was a lot of work. In [part 6](FINAL-ASSEMBLING.md) we insert all the riser cards.
