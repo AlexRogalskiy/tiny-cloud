@@ -21,3 +21,17 @@ The video is online on [YouTube](https://www.youtube.com/watch?v=UiJP-368BLA&lis
 The slides are [online](https://www.slideshare.net/stefscherer/swarm-2-go-build-a-portable-multiarch-data-center-with-pi-and-up-nodes).
 
 ![Rebuilding PiCloud after DockerCon](prepare-hardware/images/after_dockercon.jpg)
+
+## Build your own tiny cloud
+
+You can build and assemble the tiny cloud yourself. There are assembly instructions covering the following parts
+
+  - [Part 1 - Assemble the Housing](housing/README.md#assembling)
+  - [Part 2 - Assemble the riser cards](housing/RISERCARDS.md)
+  - [Part 3 - Assemble Anker USB Power supplies](housing/ANKER.md)
+  - [Part 4 - Assemble the switches](housing/SWITCHES.md)
+  - [Part 5 - Cabling](housing/CABLING.md)
+  - [Part 6 - Final assembling](housing/FINAL-ASSEMBLING.md)
+  
+  
+  
