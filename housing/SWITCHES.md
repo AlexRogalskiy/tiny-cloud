@@ -21,11 +21,11 @@ Place the switch at the left edge and fix it in the housing.
 ## Edge Router X
 
 Put two strips of velcro tape to the Edge router.
-![](./images/edge-01.jpg)
+![](./images/edge01.jpg)
 
 Place the edge router about 2 cm away from the right edge.
-![](./images/edge-02.jpg)
-![](./images/edge-03.jpg)
+![](./images/edge02.jpg)
+![](./images/edge03.jpg)
 
 ## D-Link Switch 2
 
@@ -41,3 +41,5 @@ Turn the housing again.
 
 With the Anker assembled your housing should look like this.
 ![](./images/switch2-04.jpg)
+
+In [part 5](./CABLING.md) we add all the cabling. This will be fun.
