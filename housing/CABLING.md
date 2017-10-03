@@ -59,4 +59,15 @@ Now attach the power cables for the Anker, then insert it into the housing. Then
 ![](images/usbcabling08.jpg)
 ![](images/usbcabling09.jpg)
 
+## Patch cables for second switch
+
+Plug the power cable into the second switch and fix the switch in the housing.
+![](images/cabling2-01.jpg)
+![](images/cabling2-02.jpg)
+
+Connect the second switch to the edge router with another black patch cable.
+![](images/cabling2-03.jpg)
+
+Plug the colored patch cables into the second switch.
+![](images/cabling2-04.jpg)
 
