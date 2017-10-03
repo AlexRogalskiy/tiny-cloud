@@ -1,4 +1,4 @@
-# tiny-cloud
+# Tiny Cloud
 
 Build a tiny cloud for demonstration purposes with Raspberry Pi's and UP boards.
 
