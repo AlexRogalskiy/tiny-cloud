@@ -31,7 +31,7 @@ If you have a different laser device, it may be more material-effective to
 re-arrange the parts for your material size.
 
 ## Making
-If you have [FabLab][https://en.wikipedia.org/wiki/Fab_lab] near you that provides a laser cutter, this is
+If you have [FabLab](https://en.wikipedia.org/wiki/Fab_lab) near you that provides a laser cutter, this is
 probably the easiest way to get the housing done. However, any other laser cutter
 may do as well, or maybe you'd like to try to 3D-print it or use a CNC machine...
 
