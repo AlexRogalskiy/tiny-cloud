@@ -33,7 +33,7 @@ See the detailed steps [Prepare UP Board](../prepare-hardware/up) how to install
 
 ## Turn it on
 
-It's alive!
+It's alive! Run your own [Docker Swarm Rainbow](../dockercon/README.md) demo or invent something new!
 
 ![](images/final.jpg)
 
