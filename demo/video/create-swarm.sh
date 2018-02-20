@@ -8,6 +8,7 @@ sshopts="-o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
 echo "Make $managerNode the first manager"
 managerIP=$prefix$managerNode
 echo manager IP: $managerIP
+ssh $sshopts $user@$prefix$managerNode$suffix docker swarm leave --force || true
 ssh $sshopts $user@$prefix$managerNode$suffix docker swarm init --advertise-addr $managerIP
 managerToken=$(ssh $sshopts $user@$prefix$managerNode$suffix docker swarm join-token -q manager)
 echo manager token: $managerToken
@@ -18,6 +19,7 @@ echo worker token: $workerToken
 for node in $managerNodes; do
  echo "Make $node a manager"
  ip=$(ping -c 1 $prefix$node$suffix | grep PING | sed 's/^.*(//' | sed 's/).*$//')
+ ssh $sshopts $user@$prefix$node$suffix docker swarm leave --force || true
  ssh $sshopts $user@$prefix$node$suffix docker swarm join --token $managerToken --advertise-addr $ip $managerIP:2377
 done
 
@@ -25,5 +27,6 @@ done
 for node in $workerNodes; do
   echo "Make $node a worker"
   ip=$(ping -c 1 $prefix$node$suffix | grep PING | sed 's/^.*(//' | sed 's/).*$//')
+  ssh $sshopts $user@$prefix$node$suffix docker swarm leave --force || true
   ssh $sshopts $user@$prefix$node$suffix docker swarm join --token $workerToken --advertise-addr $ip $managerIP:2377
 done
